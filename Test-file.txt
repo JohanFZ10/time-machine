@@ -1,0 +1,8 @@
+-- Este es un archivo de prueba para poner en practica los comandos de git
+******************************* MAQUINA DEL TIEMPO ***************************
+Año 1998: Nació Johan Andrés Fernández
+
+
+
+
+******************************************************************************
