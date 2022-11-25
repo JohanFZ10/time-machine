@@ -1,9 +1,9 @@
 -- Este es un archivo de prueba para poner en practica los comandos de git
 ******************************* MAQUINA DEL TIEMPO ***************************
-Año 1998: Nació Johan Andrés Fernández
+Año 1998: Nació Johan Andrés Fernández y se jugaba el mundial del 98
 Año 2000: Tengo 2 años y ya puedo caminar
 Año 2003: Tengo 5 años y estoy en grado primero en el colegio Santa Catalina
-
+Año 2008: Tengo 10 años y estoy en grado sexto en el colegio Liceo la Presentacion
 
 
 ******************************************************************************
