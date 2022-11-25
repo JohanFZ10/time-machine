@@ -2,14 +2,8 @@
 ******************************* MAQUINA DEL TIEMPO ***************************
 Año 1998: Nació Johan Andrés Fernández y se jugaba el mundial del 98
 Año 2000: Tengo 2 años y ya puedo caminar
-<<<<<<< HEAD
-Año 2003: Tengo 5 años y estoy en grado primero en el colegio Santa Catalina
-Año 2008: Tengo 10 años y estoy en grado sexto en el colegio la Presentacion
-Año 2014: Tengo 16 años, inicie mis estudios de Ingenieria Electronica en la UPTC
-=======
 Año 2020: Tengo 21 años y me gradue de ingenieria electronica en la UPTC
 Año 2022: Tengo 24 años y estoy desarrollando apps moviles con react-native
-
->>>>>>> año_2000
+Año 2023: Tengo 25 años y estoy realizando mis estudio de doctorado
 
 ******************************************************************************
