@@ -3,7 +3,7 @@
 Año 1998: Nació Johan Andrés Fernández
 Año 2000: Tengo 2 años y ya puedo caminar
 Año 2020: Tengo 21 años y me gradue de ingenieria electronica en la UPTC
-
+Año 2022: Tengo 24 años y estoy desarrollando apps moviles con react-native
 
 
 ******************************************************************************
