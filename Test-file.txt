@@ -5,5 +5,5 @@ Año 2000: Tengo 2 años y ya puedo caminar
 Año 2020: Tengo 21 años y me gradue de ingenieria electronica en la UPTC y obtuve grado de honor
 Año 2022: Tengo 24 años y estoy desarrollando apps moviles con react-native
 Año 2023: Tengo 25 años y estoy realizando mis estudio de doctorado
-
+Año 2024: Tengo 26 años y se esta jugando la copa america 2024 en Colombia
 ******************************************************************************
