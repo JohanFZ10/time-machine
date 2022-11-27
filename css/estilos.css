@@ -1,5 +1,5 @@
 body{
-    color: rgba(32, 32, 153, 0.962);
+    color: rgb(148, 25, 25);
     font-family: Arial;
     font-size: 16px;
     text-align: center;
@@ -12,7 +12,7 @@ body{
 }
 .header{
     width: 100%;
-    background-color: rgba(32, 32, 153, 0.962);
+    background-color: rgb(148, 25, 25);
     color: white;
     display: flex;
 }
